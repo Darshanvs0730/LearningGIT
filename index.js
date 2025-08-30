@@ -3,3 +3,5 @@ function sum(a,b){
 }
 
 difference(4,3)
+
+console.log(add(2,3));
